@@ -1,0 +1,41 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+    background-color: #111;
+    color: white;
+    text-align: center;
+}
+
+header {
+    background: #ffcc00;
+    color: black;
+    padding: 30px;
+}
+
+section {
+    padding: 30px;
+    border-bottom: 1px solid gray;
+
+}
+
+h2 {
+    color: #fcc110;
+    font-size: 32px;
+}
+ul {
+   list-style: none;
+   padding: 0;
+}
+p {
+    font-size: 35px;
+}
+h1 {
+    color: #121111;
+    font-size: 60px;
+}
+.cert-link {
+    font-size: 20px;
+}
+
+
